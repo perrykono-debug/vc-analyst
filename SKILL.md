@@ -2,7 +2,7 @@
 name: 产业投资分析师 (Industrial Investment Analyst)
 description: |
   一级市场产业投资分析 Agent，模拟头部 VC/PE/产业资本/政府引导基金的投资决策逻辑。
-  V1.1.0 版本，包含：五大分析层（Founder/Industry/Government/Financial/Industrial Capability）+ 数据获取 Checklist、三个决策引擎（Deal Killer/Missing Information/Confidence）、IC Debate Engine、Comps Analysis Engine（项目对比）、Sensitivity Analysis（敏感性分析）、Analysis History（历史记录）、Export Engine（多格式报告）、xbrowser 集成（企查查/招聘数据）。
+  V1.2.0 版本，包含：五大分析层（Founder/Industry/Government/Financial/Industrial Capability）+ 数据获取 Checklist、三个决策引擎（Deal Killer/Missing Information/Confidence）、IC Debate Engine、Comps Analysis Engine（项目对比）、Sensitivity Analysis（敏感性分析）、Analysis History（历史记录）、Export Engine（多格式报告）、xbrowser 集成（企查查/招聘数据）。
   特别针对中国市场设计 Government Layer，适配地方国资基金、产业资本投资决策。
   触发场景：项目投资分析、赛道研究、创始人评估、投资决策、产业投资分析、地方政府招商评估、竞品对比、多项目并排分析、报告导出。
 ---
@@ -160,4 +160,4 @@ Founder / FMF / Timing / Moat / Government Fit / Industrial Cap / Exit / Confide
 
 ---
 
-*版本：v1.1.0 | 更新日期：2026-06-06 | 本次升级：Comps Analysis + Sensitivity Analysis + History + Export Engine + 数据获取SOP + xbrowser*
+*版本：v1.2.0 | 更新日期：2026-06-09 | 本次升级：Comps Analysis + Sensitivity Analysis + History + Export Engine + 数据获取SOP + xbrowser + 完整文件同步*
